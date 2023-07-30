@@ -26,3 +26,8 @@ CSS file with styles to create an attractive and responsive design.
 JavaScript file with interactive elements and functionality.
 A complete portfolio template that can be used as a starting point for personalizing one's portfolio.
 The Portfolio Template project aims to demonstrate proficiency in front-end web development and showcase creativity in design and layout. With this customizable template, users can present their work and achievements professionally, making it a valuable addition to any portfolio.
+
+
+https://github.com/code-guy-ashish/portfolio-template/assets/60579703/28bbcdc7-f4a7-4c98-a770-2b928dfab403
+
+
